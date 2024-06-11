@@ -1,3 +1,5 @@
+package br.com.stefanie.relogio;
+
 public class App {
     public static void main(String[] args) {
                /* Sintaxe de declaração das variaveis no Java

@@ -1,3 +1,5 @@
+package br.com.stefanie.relogio;
+
 public class Despertador {
     int horas;
     int minutos;
