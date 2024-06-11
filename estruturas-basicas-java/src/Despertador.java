@@ -9,7 +9,7 @@ public class Despertador {
 
     String agendarAlarme() { //parâmetros
         // Seu alarme foi configurado ás 12:30
-        return "Seu alarme foi configurado ás " + hora + ":" + minutos;
+        return "Seu alarme foi configurado ás " + horas + ":" + minutos;
 
     }
 }
