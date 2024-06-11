@@ -4,7 +4,7 @@ public class Despertador {
     int soneca;
 
     void ativarSoneca() {
-        System.out.println("Só mais 5 minutinhos :P");
+        System.out.println("Só mais " + soneca +  " minutinhos :P");
     }
 
     String agendarAlarme(int hora, int minutos) { //parâmetros
